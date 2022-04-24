@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @garypanama
-- 👀 I’m interested in stablecoins, crypto, fintech on-ramping, Panamá, Venezuela and Colombia.
-- 🌱 I’m currently learning HTML, Javascript, Git.
+- 👀 I’m interested in stablecoins, crypto, defi, on-ramping.
+- 🌱 I’m currently learning HTML, Javascript, Python, Git.
 - 💞️ I’m looking to collaborate with others new to coding.
 - 📫 How to reach me: Telegram @blockchaingary
 
